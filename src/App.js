@@ -19,6 +19,7 @@ function App() {
       <DocTitleTwo /> */}
       <CounterOne />
       <CounterTwo />
+      <ParentComponent />
     </div>
   );
 }
