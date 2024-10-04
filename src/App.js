@@ -15,12 +15,12 @@ function App() {
       {/* <ParentComponent /> */}
       {/* <FocusInput /> */}
       {/* <DocTitleOne /> */}
-      <DocTitleTwo />
-      <Counter />
+      {/* <DocTitleTwo />
+      <Counter /> */}
       <CounterOne />
       <CounterTwo />
-      {/* <ParentComponent />
-      <FocusInput /> */}
+      <ParentComponent />
+      <FocusInput />
     </div>
   );
 }
