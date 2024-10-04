@@ -19,6 +19,7 @@ function App() {
       <Counter />
       <CounterOne />
       <CounterTwo />
+      <ParentComponent />
     </div>
   );
 }
