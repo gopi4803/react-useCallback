@@ -19,8 +19,8 @@ function App() {
       <Counter />
       <CounterOne />
       <CounterTwo />
-      {/* <ParentComponent />
-      <FocusInput /> */}
+      <ParentComponent />
+      <FocusInput />
     </div>
   );
 }
