@@ -14,8 +14,8 @@ function App() {
     <div className="App">
       {/* <ParentComponent /> */}
       {/* <FocusInput /> */}
-      {/* <DocTitleOne />
-      <DocTitleTwo /> */}
+      {/* <DocTitleOne /> */}
+      <DocTitleTwo />
       <Counter />
       <CounterOne />
       <CounterTwo />
