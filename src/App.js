@@ -15,8 +15,8 @@ function App() {
       {/* <ParentComponent /> */}
       {/* <FocusInput /> */}
       {/* <DocTitleOne /> */}
-      <DocTitleTwo />
-      <Counter />
+      {/* <DocTitleTwo />
+      <Counter /> */}
       <CounterOne />
       <CounterTwo />
       {/* <ParentComponent />
