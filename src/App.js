@@ -20,6 +20,7 @@ function App() {
       <CounterOne />
       <CounterTwo />
       <ParentComponent />
+      <FocusInput />
     </div>
   );
 }
